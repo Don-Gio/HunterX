@@ -1,0 +1,7 @@
+# Hunter X requirements
+python>=3.9
+requests>=2.28.2
+rich>=13.4.2
+dnspython>=2.4.2
+# tqdm optionnel pour progress bars
+tqdm>=4.66.1
