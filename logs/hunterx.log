@@ -1,0 +1,86 @@
+2026-02-24 11:46:45,787 | INFO | Recon phase completed.
+2026-02-24 11:46:58,545 | INFO | Vulnerability scan completed.
+2026-02-24 11:46:58,550 | INFO | Hunter X execution finished.
+2026-02-24 12:29:52,602 | INFO | Recon phase completed.
+2026-02-24 12:29:55,306 | WARNING | CORS issue found on https://httpbin.org/flasgger_static/lib/jquery.min.js
+2026-02-24 12:30:00,515 | WARNING | CORS issue found on https://httpbin.org
+2026-02-24 12:30:00,895 | WARNING | CORS issue found on https://httpbin.org/static/favicon.ico
+2026-02-24 12:30:02,929 | WARNING | CORS issue found on https://httpbin.org/
+2026-02-24 12:30:08,945 | WARNING | CORS issue found on https://httpbin.org/flasgger_static/swagger-ui-bundle.js
+2026-02-24 12:30:09,956 | WARNING | CORS issue found on https://httpbin.org/flasgger_static/swagger-ui.css
+2026-02-24 12:30:10,486 | WARNING | CORS issue found on https://httpbin.org/forms/post
+2026-02-24 12:30:15,732 | WARNING | CORS issue found on https://httpbin.org/flasgger_static/swagger-ui-standalone-preset.js
+2026-02-24 12:30:16,582 | WARNING | CORS issue found on https://httpbin.org/spec.json
+2026-02-24 12:30:17,842 | INFO | Vulnerability scan completed.
+2026-02-24 12:34:56,777 | INFO | Recon phase completed.
+2026-02-24 12:35:02,117 | WARNING | CORS issue found on https://httpbin.org/flasgger_static/swagger-ui-standalone-preset.js
+2026-02-24 12:35:11,588 | WARNING | CORS issue found on https://httpbin.org/flasgger_static/swagger-ui-bundle.js
+2026-02-24 12:35:14,671 | WARNING | CORS issue found on https://httpbin.org/flasgger_static/swagger-ui.css
+2026-02-24 12:35:16,094 | WARNING | CORS issue found on https://httpbin.org/
+2026-02-24 12:35:19,314 | WARNING | CORS issue found on https://httpbin.org/static/favicon.ico
+2026-02-24 12:35:21,432 | WARNING | CORS issue found on https://httpbin.org/flasgger_static/lib/jquery.min.js
+2026-02-24 12:35:22,822 | WARNING | CORS issue found on https://httpbin.org/forms/post
+2026-02-24 12:35:23,475 | WARNING | CORS issue found on https://httpbin.org
+2026-02-24 12:35:25,307 | WARNING | CORS issue found on https://httpbin.org/spec.json
+2026-02-24 12:35:25,335 | INFO | Vulnerability scan completed.
+2026-02-24 12:37:30,575 | INFO | Hunter X execution finished successfully.
+2026-02-24 12:49:34,732 | INFO | Recon phase completed.
+2026-02-24 12:49:34,742 | INFO | Vulnerability scan completed.
+2026-02-24 12:49:34,749 | INFO | Hunter X execution finished successfully.
+2026-02-24 12:50:38,716 | INFO | Recon phase completed.
+2026-02-24 12:50:38,726 | INFO | Vulnerability scan completed.
+2026-02-24 12:50:38,734 | INFO | Hunter X execution finished successfully.
+2026-02-24 12:51:33,985 | INFO | Recon phase completed.
+2026-02-24 12:51:35,152 | WARNING | CORS issue found on https://jsonplaceholder.typicode.com/posts/1
+2026-02-24 12:51:36,462 | WARNING | CORS issue found on https://jsonplaceholder.typicode.com/guide
+2026-02-24 12:51:37,146 | WARNING | CORS issue found on https://jsonplaceholder.typicode.com/style.css
+2026-02-24 12:51:37,749 | WARNING | CORS issue found on https://jsonplaceholder.typicode.com/todos
+2026-02-24 12:51:38,395 | WARNING | CORS issue found on https://jsonplaceholder.typicode.com/comments?postId=1
+2026-02-24 12:51:38,777 | WARNING | CORS issue found on https://jsonplaceholder.typicode.com
+2026-02-24 12:51:40,410 | WARNING | CORS issue found on https://jsonplaceholder.typicode.com/photos
+2026-02-24 12:51:41,072 | WARNING | CORS issue found on https://jsonplaceholder.typicode.com/posts
+2026-02-24 12:51:41,685 | WARNING | CORS issue found on https://jsonplaceholder.typicode.com/posts/1/comments
+2026-02-24 12:51:42,331 | WARNING | CORS issue found on https://jsonplaceholder.typicode.com/albums
+2026-02-24 12:51:43,001 | WARNING | CORS issue found on https://jsonplaceholder.typicode.com/users
+2026-02-24 12:51:43,964 | WARNING | CORS issue found on https://jsonplaceholder.typicode.com/comments
+2026-02-24 12:51:43,988 | INFO | Vulnerability scan completed.
+2026-02-24 12:52:31,666 | INFO | Hunter X execution finished successfully.
+2026-02-24 12:53:24,709 | INFO | Recon phase completed.
+2026-02-24 12:53:24,720 | INFO | Vulnerability scan completed.
+2026-02-24 12:53:24,727 | INFO | Hunter X execution finished successfully.
+2026-02-24 12:54:08,838 | INFO | Recon phase completed.
+2026-02-24 12:54:21,209 | INFO | Vulnerability scan completed.
+2026-02-24 12:55:12,388 | INFO | Hunter X execution finished successfully.
+2026-02-24 12:58:55,465 | INFO | Recon phase completed.
+2026-02-24 12:58:56,455 | WARNING | CORS issue found on https://jsonplaceholder.typicode.com/todos
+2026-02-24 12:58:56,701 | WARNING | CORS issue found on https://jsonplaceholder.typicode.com/posts/1
+2026-02-24 12:58:57,194 | WARNING | CORS issue found on https://jsonplaceholder.typicode.com/guide
+2026-02-24 12:58:58,056 | WARNING | CORS issue found on https://jsonplaceholder.typicode.com/photos
+2026-02-24 12:58:58,434 | WARNING | CORS issue found on https://jsonplaceholder.typicode.com/comments
+2026-02-24 12:58:58,701 | WARNING | CORS issue found on https://jsonplaceholder.typicode.com/albums
+2026-02-24 12:58:58,966 | WARNING | CORS issue found on https://jsonplaceholder.typicode.com/style.css
+2026-02-24 12:58:59,233 | WARNING | CORS issue found on https://jsonplaceholder.typicode.com/posts
+2026-02-24 12:58:59,492 | WARNING | CORS issue found on https://jsonplaceholder.typicode.com/comments?postId=1
+2026-02-24 12:58:59,764 | WARNING | CORS issue found on https://jsonplaceholder.typicode.com/users
+2026-02-24 12:59:00,036 | WARNING | CORS issue found on https://jsonplaceholder.typicode.com
+2026-02-24 12:59:00,356 | WARNING | CORS issue found on https://jsonplaceholder.typicode.com/posts/1/comments
+2026-02-24 12:59:00,382 | INFO | Vulnerability scan completed.
+2026-02-24 12:59:41,213 | INFO | Hunter X execution finished successfully.
+2026-02-24 13:10:00,441 | INFO | Recon phase completed.
+2026-02-24 13:10:03,317 | WARNING | CORS issue found on https://httpbin.org/flasgger_static/lib/jquery.min.js
+2026-02-24 13:10:03,732 | WARNING | CORS issue found on https://httpbin.org
+2026-02-24 13:10:11,341 | WARNING | CORS issue found on https://httpbin.org/flasgger_static/swagger-ui-bundle.js
+2026-02-24 13:10:12,369 | WARNING | CORS issue found on https://httpbin.org/flasgger_static/swagger-ui.css
+2026-02-24 13:10:14,813 | WARNING | CORS issue found on https://httpbin.org/static/favicon.ico
+2026-02-24 13:10:15,411 | WARNING | CORS issue found on https://httpbin.org/forms/post
+2026-02-24 13:10:16,244 | WARNING | CORS issue found on https://httpbin.org/spec.json
+2026-02-24 13:10:16,927 | WARNING | CORS issue found on https://httpbin.org/
+2026-02-24 13:10:20,425 | WARNING | CORS issue found on https://httpbin.org/flasgger_static/swagger-ui-standalone-preset.js
+2026-02-24 13:10:21,058 | INFO | Vulnerability scan completed.
+2026-02-24 13:12:20,151 | INFO | Hunter X execution finished successfully.
+2026-02-24 13:22:34,121 | INFO | Recon phase completed.
+2026-02-24 13:22:34,134 | INFO | Vulnerability scan completed.
+2026-02-24 13:22:34,142 | INFO | Hunter X execution finished successfully.
+2026-02-24 13:23:10,540 | INFO | Recon phase completed.
+2026-02-24 13:23:24,848 | INFO | Vulnerability scan completed.
+2026-02-24 13:24:42,268 | INFO | Hunter X execution finished successfully.
